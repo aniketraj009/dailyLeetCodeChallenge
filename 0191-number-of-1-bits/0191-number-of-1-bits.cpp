@@ -7,9 +7,7 @@ public:
                 count++;
             }
             n=n>>1;
-
         }
         return count;
-        
     }
 };
