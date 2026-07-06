@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/aniketraj009/dailyLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/aniketraj009/dailyLeetCodeChallenge/tree/master/0258-add-digits) |
+| [2652-sum-multiples](https://github.com/aniketraj009/dailyLeetCodeChallenge/tree/master/2652-sum-multiples) |
 ## Recursion
 |  |
 | ------- |
