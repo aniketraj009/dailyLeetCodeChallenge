@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/aniketraj009/dailyLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/aniketraj009/dailyLeetCodeChallenge/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/aniketraj009/dailyLeetCodeChallenge/tree/master/0268-missing-number) |
 | [1009-complement-of-base-10-integer](https://github.com/aniketraj009/dailyLeetCodeChallenge/tree/master/1009-complement-of-base-10-integer) |
 ## Math
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/aniketraj009/dailyLeetCodeChallenge/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/aniketraj009/dailyLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/aniketraj009/dailyLeetCodeChallenge/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/aniketraj009/dailyLeetCodeChallenge/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/aniketraj009/dailyLeetCodeChallenge/tree/master/1025-divisor-game) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aniketraj009/dailyLeetCodeChallenge/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/aniketraj009/dailyLeetCodeChallenge/tree/master/2652-sum-multiples) |
@@ -49,4 +51,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/aniketraj009/dailyLeetCodeChallenge/tree/master/1025-divisor-game) |
+## Array
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/aniketraj009/dailyLeetCodeChallenge/tree/master/0268-missing-number) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/aniketraj009/dailyLeetCodeChallenge/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/aniketraj009/dailyLeetCodeChallenge/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/aniketraj009/dailyLeetCodeChallenge/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
